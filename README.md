@@ -1,28 +1,27 @@
-# coe5e4e22bd9345543e518f89
+# Business Card Built with React
+### Live site: https://my-react-business-card.netlify.app/
 
-Quick start:
+## Overview
+This business card was a solo project from [The Scrimba Frontend Career Path](https://scrimba.com). I was provided a Figma File, but chose to personalize the color scheme and a bit of the content. 
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+The purpose of building this static site in React was to practice React syntax and creating React components. 
 
-## Development
+My focus during the building process was creating a visually appealing and accessible design and color palette, as well writing clean readable code. 
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+## Features
+- Light and dark mode based on user preference
+- Links to my Email, LinkedIn, and GitHub profile
+- An about section with a description of myself and my interests
+- Aria-labels and Alt text
 
-```
-$ yarn watch # npm run watch
-```
+## Technologies, Tools, + Languages utilized 
+- HTML
+- CSS
+- JavaScript
+- React
+- [Figma](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?type=design&node-id=0-129&mode=design&t=C0WKbjNceuWsRFh9-0)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/icons)
+- [Canva](https://www.canva.com/)
+- [WCAG Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
